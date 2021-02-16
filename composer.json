@@ -1,5 +1,5 @@
 {
-	"name": "scrumble-nl/laravel-csr",
+	"name": "scrumble-nl-stefan/laravel-csr",
 	"type": "library",
 	"homepage": "https://github.com/scrumble-nl/laravel-csr",
 	"description": "This package makes it possible to generate a controller, service, repository, model and migration all in 1 command",
